@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="City">Псков</string>
+    <string name="wind">Скорость ветра</string>
+    <string name="pressure">Давление</string>
+    <string name="humidity">Влажность</string>
+    <string name="temperature">Температура</string>
+    <string name="getWeaterMessage">Получить сводку о погоде</string>
+    <string name="good">хорошая</string>
+    <string name="bad">плохая</string>
+    <string name="hint">Выберите город</string>
+    <string-array name="city_list">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Псков</item>
+        <item>Казань</item>
+        <item>Екатеринбург</item>
+        <item>Ростов</item>
+        <item>Воронеж</item>
+    </string-array>
+</resources>

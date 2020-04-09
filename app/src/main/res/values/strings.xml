@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="City">Pskov</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="temperature">Temperature</string>
+    <string name="getWeaterMessage">Get the weather</string>
+    <string name="good">good</string>
+    <string name="bad">bad</string>
+    <string name="hint">Choose your city</string>
+    <string-array name="city_list">
+        <item>Moscow</item>
+        <item>SPB</item>
+        <item>Pskov</item>
+        <item>Kazan</item>
+        <item>EKB</item>
+        <item>Rostov</item>
+        <item>Voroneg</item>
+    </string-array>
+</resources>
